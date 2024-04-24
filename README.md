@@ -1,7 +1,7 @@
 # determined dashboard contest
 
-I ran out of ideas !!!
 
+<img src="https://media2.giphy.com/media/u5chXT0G9B771HcW1L/giphy.gif"/>
 
 The idea is to use the example csv to create one or more dashboards that you believe are important to see the cluster's use. I'm out of ideas. Please create a folder in this repo  under the folder src with your cluster username and inside create one or more python files with your code and a requirements.txt file with the libraries used.
 
